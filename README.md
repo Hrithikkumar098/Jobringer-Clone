@@ -13,3 +13,5 @@ React: For creating dynamic UI components.
 Installation
 To run the project locally, follow these steps:
 
+![Screenshot (52)](https://github.com/user-attachments/assets/82680b03-fe62-44d3-803d-8a63ed2489ab)
+![Screenshot (53)](https://github.com/user-attachments/assets/dab0778b-c45b-4e3e-a147-ff954021e047)
